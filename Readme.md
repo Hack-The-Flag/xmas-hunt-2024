@@ -1,0 +1,31 @@
+<p align="center">
+  <a href="https://hacktheflag.net">
+    <img src="/img/XMAS.png">
+  </a>
+</p>
+
+[![HTF xmas hunt 2025](https://img.shields.io/badge/xmas_hunt-2024-FFFFFF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iODE0IiBoZWlnaHQ9IjQwNCIgdmlld0JveD0iMCAwIDgxNCA0MDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik0wIDEwQzAgNC40NzcxNiA0LjQ3NzE1IDcuNjI5MzllLTA2IDEwIDcuNjI5MzllLTA2SDU3LjMyODRDNjIuODUxMiA3LjYyOTM5ZS0wNiA2Ny4zMjg0IDQuNDc3MTcgNjcuMzI4NCAxMFYxNTguMzIxQzY3LjMyODQgMTYzLjg0NCA3MS44MDU1IDE2OC4zMjEgNzcuMzI4NCAxNjguMzIxSDE1My42MDhDMTU5LjEzMSAxNjguMzIxIDE2My42MDggMTYzLjg0NCAxNjMuNjA4IDE1OC4zMjFWMTBDMTYzLjYwOCA0LjQ3NzE3IDE2OC4wODUgNy42MjkzOWUtMDYgMTczLjYwOCA3LjYyOTM5ZS0wNkgyMjAuOTM2QzIyNi40NTkgNy42MjkzOWUtMDYgMjMwLjkzNiA0LjQ3NzE2IDIzMC45MzYgMTBMMjMwLjkzNiAxNjguMzIxVjIzNS42NDlMMjMwLjkzNiAzOTMuOTdDMjMwLjkzNiAzOTkuNDkzIDIyNi40NTkgNDAzLjk3IDIyMC45MzYgNDAzLjk3SDE3My42MDhDMTY4LjA4NSA0MDMuOTcgMTYzLjYwOCAzOTkuNDkzIDE2My42MDggMzkzLjk3VjI0NS42NDlDMTYzLjYwOCAyNDAuMTI2IDE1OS4xMzEgMjM1LjY0OSAxNTMuNjA4IDIzNS42NDlINzcuMzI4NEM3MS44MDU1IDIzNS42NDkgNjcuMzI4NCAyNDAuMTI2IDY3LjMyODQgMjQ1LjY0OVYzOTMuOTdDNjcuMzI4NCAzOTkuNDkzIDYyLjg1MTIgNDAzLjk3IDU3LjMyODQgNDAzLjk3SDEwQzQuNDc3MTUgNDAzLjk3IDAgMzk5LjQ5MyAwIDM5My45N1YxMFoiIGZpbGw9IndoaXRlIi8%2BCjxwYXRoIGQ9Ik0zMDEuNTMyIDcuNjI5MzllLTA2QzI5Ni4wMDkgNy42MjkzOWUtMDYgMjkxLjUzMiA0LjQ3NzE2IDI5MS41MzIgMTBWNTcuMzI4NEMyOTEuNTMyIDYyLjg1MTIgMjk2LjAwOSA2Ny4zMjg0IDMwMS41MzIgNjcuMzI4NEgzNjMuMzM2QzM2OC44NTkgNjcuMzI4NCAzNzMuMzM2IDcxLjgwNTUgMzczLjMzNiA3Ny4zMjg0VjM5My45N0MzNzMuMzM2IDM5OS40OTMgMzc3LjgxMyA0MDMuOTcgMzgzLjMzNiA0MDMuOTdINDMwLjY2NEM0MzYuMTg3IDQwMy45NyA0NDAuNjY0IDM5OS40OTMgNDQwLjY2NCAzOTMuOTdWNzcuMzI4NEM0NDAuNjY0IDcxLjgwNTUgNDQ1LjE0MSA2Ny4zMjg0IDQ1MC42NjQgNjcuMzI4NEg1MTIuNDY4QzUxNy45OTEgNjcuMzI4NCA1MjIuNDY4IDYyLjg1MTIgNTIyLjQ2OCA1Ny4zMjg0VjEwQzUyMi40NjggNC40NzcxNiA1MTcuOTkxIDcuNjI5MzllLTA2IDUxMi40NjggNy42MjkzOWUtMDZIMzAxLjUzMloiIGZpbGw9IndoaXRlIi8%2BCjxwYXRoIGQ9Ik01ODMuMDY0IDguNTY1MjJlLTA2QzU4My4wNjQgOC41NjUyMmUtMDYgNTgzLjA2NCAzLjgzNDc4ZS0wNiA1ODMuMDY0IDguNTY1MjJlLTA2TDgwNCAwQzgwOS41MjMgMCA4MTQgNC40NzcxNSA4MTQgMTBWNTcuMzI4NEM4MTQgNjIuODUxMiA4MDkuNTIzIDY3LjMyODQgODA0IDY3LjMyODRINjYwLjM5MkM2NTQuODY5IDY3LjMyODQgNjUwLjM5MiA3MS44MDU1IDY1MC4zOTIgNzcuMzI4NFYxNTguMzIxQzY1MC4zOTIgMTYzLjg0NCA2NTQuODY5IDE2OC4zMjEgNjYwLjM5MiAxNjguMzIxSDgwNEM4MDkuNTIzIDE2OC4zMjEgODE0IDE3Mi43OTggODE0IDE3OC4zMjFWMjI1LjY0OUM4MTQgMjMxLjE3MiA4MDkuNTIzIDIzNS42NDkgODA0IDIzNS42NDlINjYwLjM5MkM2NTQuODY5IDIzNS42NDkgNjUwLjM5MiAyNDAuMTI2IDY1MC4zOTIgMjQ1LjY0OVYzOTMuOTdDNjUwLjM5MiAzOTkuNDkzIDY0NS45MTUgNDAzLjk3IDY0MC4zOTIgNDAzLjk3SDU5My4wNjRDNTg3LjU0MSA0MDMuOTcgNTgzLjA2NCAzOTkuNDkzIDU4My4wNjQgMzkzLjk3VjguNTY1MjJlLTA2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc%2BCg%3D%3D&logoColor=black&logoSize=auto&labelColor=black&color=red)](https://hacktheflag.net/)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers-friendly-blue.svg?style=flat-square&labelColor=black)](http://www.firsttimersonly.com/)
+
+
+## 🎄🎉 **Gear up for the HackTheFlag Xmas Hunt 2024!** 🎉🎄
+
+Join us starting on **December 6th** for a thrilling 5-day cryptographic extravaganza that will **challenge your wit and test your skills!** Hidden within this repository are a series of cryptography quests waiting to be unraveled.
+
+🔍 **Dive into the puzzles, decode the secrets, and capture the elusive symmetric key** to unlock the mysteries that lie ahead. Each solved challenge brings you closer to **the ultimate prize!**
+
+But wait, there's more! To make sure you're all set for this exhilarating adventure, here’s a **special key** to get you started: `hxQXB2bXO6nZdKRDiUzQ7CRanl9Kt5QW`
+
+AES ECB
+```text
+dQl7dlHRMA1EOhe6JIDZj2tzsnFigbsNSetof85OPJ6zDSMn6/9GsJ/EIVpt7L3xAI/8/KPjN1Q7sx/COSJ+hr5Mya+qARCfSS6TPm58p+c=
+```
+
+Ready, set, decrypt! Let the games begin! 🌟🔑🎁
+
+## What can you win?
+This Hunt is made with help from [Hack Kosice](https://hackkosice.com/2025/).  
+For the first 2 winners we have ready Golden tickets which means admission for you and your teammates.  
+Winner needs to meet the conditions of: [Hack Kosice 2025 Rules](https://hackkosice.com/2025/rules/)
+
+Winners will be announced here and on Hack Kosice socials.
